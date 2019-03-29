@@ -7,3 +7,5 @@ This is what people wrote
 ## Chapter 3 - Literature Review
 Systematic lit review of the topic
 
+## Chapter 4 - Methodology
+Describes my data collection and analysis 
